@@ -1,4 +1,4 @@
-//package mouse;
+//package mouse CHANGE
 
 import java.awt.*;
 import javax.swing.*;
